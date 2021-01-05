@@ -11,7 +11,8 @@ It is important because :
 
 In this article, we will go through an NLP based technique which will make use of the NLTK library.
 
-Text Summarization steps
+Text Summarization steps:
+
     - Obtain Data
     - Text Preprocessing
     - Convert paragraphs to sentences
